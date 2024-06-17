@@ -1,0 +1,9 @@
+F:\Project C#\IranianProduct\IranianProduct\bin\Debug\IranianProduct.exe.config
+F:\Project C#\IranianProduct\IranianProduct\bin\Debug\IranianProduct.exe
+F:\Project C#\IranianProduct\IranianProduct\bin\Debug\IranianProduct.pdb
+F:\Project C#\IranianProduct\IranianProduct\obj\Debug\IranianProduct.csprojResolveAssemblyReference.cache
+F:\Project C#\IranianProduct\IranianProduct\obj\Debug\IranianProduct.Form1.resources
+F:\Project C#\IranianProduct\IranianProduct\obj\Debug\IranianProduct.Properties.Resources.resources
+F:\Project C#\IranianProduct\IranianProduct\obj\Debug\IranianProduct.csproj.GenerateResource.Cache
+F:\Project C#\IranianProduct\IranianProduct\obj\Debug\IranianProduct.exe
+F:\Project C#\IranianProduct\IranianProduct\obj\Debug\IranianProduct.pdb
